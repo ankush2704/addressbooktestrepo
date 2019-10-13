@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47826" started-at="2019-10-11T11:14:12Z" finished-at="2019-10-11T11:15:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47826" started-at="2019-10-11T11:14:12Z" finished-at="2019-10-11T11:15:00Z">
+      <class name="addressbook.adbk1.NewTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:addressbook.adbk1.NewTest@18be83e4]" name="startBrowser" is-config="true" duration-ms="14615" started-at="2019-10-11T11:14:12Z" finished-at="2019-10-11T11:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="addAddree()[pri:0, instance:addressbook.adbk1.NewTest@18be83e4]" name="addAddree" duration-ms="1793" started-at="2019-10-11T11:14:26Z" finished-at="2019-10-11T11:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddree -->
+        <test-method status="PASS" signature="close()[pri:0, instance:addressbook.adbk1.NewTest@18be83e4]" name="close" is-config="true" duration-ms="10278" started-at="2019-10-11T11:14:28Z" finished-at="2019-10-11T11:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:addressbook.adbk1.NewTest@18be83e4]" name="startBrowser" is-config="true" duration-ms="13175" started-at="2019-10-11T11:14:39Z" finished-at="2019-10-11T11:14:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="addAddree1()[pri:0, instance:addressbook.adbk1.NewTest@18be83e4]" name="addAddree1" duration-ms="1880" started-at="2019-10-11T11:14:52Z" finished-at="2019-10-11T11:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddree1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:addressbook.adbk1.NewTest@18be83e4]" name="close" is-config="true" duration-ms="6062" started-at="2019-10-11T11:14:54Z" finished-at="2019-10-11T11:15:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- addressbook.adbk1.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
